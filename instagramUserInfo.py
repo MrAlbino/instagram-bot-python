@@ -1,2 +1,2 @@
-email="instagram_username"
+email="instagram_email"
 password="instagram_password"
